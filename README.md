@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social links profile solution](https://your-solution-url.com)
-- Live Site URL: [Social links profile Live Site](https://your-live-site-url.com)
+- Solution URL: [Social links profile solution](https://github.com/phangtono/social-links-profile)
+- Live Site URL: [Social links profile Live Site](https://soft-lily-a42e82.netlify.app/)
 
 ## My process
 
@@ -62,4 +62,3 @@ For lists arranged in rows, I use display: flex; flex-direction: column;
 ## Author
 
 - Frontend Mentor - [@phangtono](https://www.frontendmentor.io/profile/phangtono)
-"# social-links-profile" 
